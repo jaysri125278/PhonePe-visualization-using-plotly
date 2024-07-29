@@ -20,16 +20,6 @@ Fintech
 
 The PhonePe Pulse GitHub repository contains a large amount of data related to various metrics and statistics. The goal is to extract this data and process it to obtain insights and information that can be visualized in a user-friendly manner.
 
-## Solution Overview
-
-1. **Extract Data**: Extract data from the PhonePe Pulse GitHub repository through scripting and clone it.
-2. **Data Transformation**: Transform the data into a suitable format and perform any necessary cleaning and pre-processing steps.
-3. **Database Storage**: Insert the transformed data into a MySQL database for efficient storage and retrieval.
-4. **Live Geo Visualization Dashboard**: Create a live geo visualization dashboard using Streamlit and Plotly in Python to display the data interactively and visually appealing.
-5. **Data Fetching**: Fetch the data from the MySQL database to display on the dashboard.
-6. **User Interaction**: Provide at least 10 different dropdown options for users to select different facts and figures to display on the dashboard.
-
-
 ## Installation
 
 ### Prerequisites
