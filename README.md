@@ -41,7 +41,7 @@ The PhonePe Pulse GitHub repository contains a large amount of data related to v
 
 1. **Clone the Repository**:
     ```sh
-    git clone [https://github.com/your-username/phonepe-pulse-data-visualization.git](https://github.com/jaysri125278/PhonePe-visualization-using-plotly.git)
+    git clone https://github.com/your-username/phonepe-pulse-data-visualization.git
     ```
 
 2. **Create a Virtual Environment and Activate It**:
@@ -80,4 +80,4 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## Contact
 
-For any questions or suggestions, please reach out to [jaysrisaravanan95@gmail.com].
+For any questions or suggestions, please reach out to jaysrisaravanan95@gmail.com.
